@@ -9,7 +9,7 @@ b) Across Multiple Colorspaces: https://docs.google.com/spreadsheets/d/1yve527pw
 
 A Graphical representation of the same is provided below:
 a) Across a Single Colorspace:
-[Screenshot 2025-04-10 161042](https://github.com/user-attachments/assets/cacb3d69-3f80-4bf5-949d-a6fa26369c43)
+![Screenshot 2025-04-10 161042](https://github.com/user-attachments/assets/cacb3d69-3f80-4bf5-949d-a6fa26369c43)
 
 b) Across Multiple Colorspaces:
 ![Screenshot 2025-04-10 161125](https://github.com/user-attachments/assets/6e81395a-e398-4443-b747-bbdc6f62d3e3)
