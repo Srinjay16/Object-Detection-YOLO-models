@@ -4,8 +4,8 @@ Here are some Jupyter Notesbooks that I have run in Kaggle Workspace for several
 🤖 The key objective was to study their capabilities of vehicle detection across several colorspaces, while varying the versions of the YOLO models used. 
 
 Here is a Spreadsheet for having a quick inference of the study:
-a) Across a Single Colorspace: https://docs.google.com/spreadsheets/d/1yve527pwytxATriRHKldigQqtRY2BCCo6ahLaXthiTQ/edit?
-b) Across Multiple Colorspaces: https://docs.google.com/spreadsheets/d/1yve527pwytxATriRHKldigQqtRY2BCCo6ahLaXthiTQ/edit?
+<br>a) Across a Single Colorspace: https://docs.google.com/spreadsheets/d/1yve527pwytxATriRHKldigQqtRY2BCCo6ahLaXthiTQ/edit?
+<br>b) Across Multiple Colorspaces: https://docs.google.com/spreadsheets/d/1yve527pwytxATriRHKldigQqtRY2BCCo6ahLaXthiTQ/edit?
 
 A Graphical representation of the same is provided below:
 a) Across a Single Colorspace:
