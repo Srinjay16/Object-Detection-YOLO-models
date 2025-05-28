@@ -12,4 +12,6 @@ a) Across a Single Colorspace:
 ![Screenshot 2025-04-11 173841](https://github.com/user-attachments/assets/20cde520-8313-4c1f-88b8-3d37577d5b04)
 
 b) Across Multiple Colorspaces:
-![Screenshot 2025-04-10 162107](https://github.com/user-attachments/assets/3196b798-cc91-4089-8dc1-6b8377f44e9a)
+![Screenshot 2025-05-28 110106](https://github.com/user-attachments/assets/7756f1a2-6be6-435a-a6b2-759f019433e1)
+![Screenshot 2025-05-28 110117](https://github.com/user-attachments/assets/0eb93db3-68cc-4421-9cea-65ad86acc1b3)
+![Screenshot 2025-05-28 110128](https://github.com/user-attachments/assets/32c2f004-043c-439a-8539-ab6c061ef84c)
